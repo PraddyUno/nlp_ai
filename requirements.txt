@@ -1,0 +1,1 @@
+-e git+https://github.com/PraddyUno/Springboard@e3b2832d7e11cf77a63da5430cd174d61cb9fe52#egg=src&subdirectory=Capstone2/nlp_ai/nlp_ai
